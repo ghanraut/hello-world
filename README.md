@@ -43,7 +43,7 @@ Note: All the data is case-sensitive. Emails, names and other values are case se
 
 The below are the subtypes for respective property fields.
 
-|Name|Type|Syb types|
+|Field Name|Type|Syb types|
 |:-----|:------|:--------------|
 |email|SYSTEM|work,personal|
 |phone|SYSTEM|work,home,mobile,main,home fax,work fax,other|
